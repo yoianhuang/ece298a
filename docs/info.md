@@ -13,7 +13,7 @@ Explain how your project works: it does stuff
 
 ## How to test
 
-Explain how to use your project: you test it
+Explain how to use your project: you test it you
 
 ## External hardware
 
